@@ -1,0 +1,46 @@
+.*
+!.gitignore
+*~
+
+# KDE
+.directory
+
+# Java
+*.class
+
+# Java - Package Files
+*.jar
+*.war
+*.ear
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# Eclipse - External tool builders
+.externalToolBuilders/
+# Eclipse - Locally stored "Eclipse launch configurations"
+*.launch
+# Eclipse - CDT-specific
+.cproject
+# Eclipse - PDT-specific
+.buildpath
+.*.sw[a-z]
+*.un~
+Session.vim
+*.iml
+*.ipr
+*.iws
+
+# Jetbrains
+.idea/
